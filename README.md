@@ -18,7 +18,7 @@ A **lightweight**, **dependency-minimal** WordPress plugin that adds a customiza
 
 1. **Download** the plugin:
    ```bash
-   git clone https://github.com/your-username/scroll-to-top-button.git
+   git clone https://github.com/shuvosa/Scroll-To-Top-Button-Lightweight-WordPress-Plugin.git
 Upload the scroll-to-top-button folder to /wp-content/plugins/
 
 Activate the plugin via Plugins > Installed Plugins in your WordPress dashboard.
